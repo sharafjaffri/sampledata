@@ -1,0 +1,6 @@
+check,target,hits,early_late_hits,clr,hit_info,total_target_hits
+1,POPUP01,5,0,red,1-3sec;2-5sec;3-8sec;4-9sec;5-13sec,89
+1,POPUP02,9,3,red,1-3sec;2-5sec;3-8sec4-10sec;5-12sec;6-13sec;7-15sec;8-18sec;9-21sec,138
+1,POPUP03,0,0,red,-,0
+1,POPUP04,1,0,red,1-9sec,110
+1,POPUP05,2,0,red,1-5sec;2-12sec,72
